@@ -7,7 +7,7 @@ class Name:
         self.arg1 = arg1
         ...hundred years later...
 ```
-Did you know that it was possible to go a day without sweating? Me neither... until I created the ultimate **`"CLASS SNIPPETS GENERATOR!"`** or more commonly known as **`"CSG"`**.
+Did you know that it was possible to go a day without sweating? Me neither... until I created the ultimate **`"CLASS SNIPPETS GENERATOR!"`** or more commonly known as **`"CSG"`**!
 ## How To Use
 
 (**`csg`**) is your base text 
