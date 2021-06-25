@@ -9,9 +9,13 @@ class Name:
 ```
 Did you know that it was possible to go a day without sweating? Me neither... until I created the ultimate **CLASS SNIPPETS GENERATOR!**
 
-##Snippets
+
+## How to Use
+
 (**csg**) is your base text 
+
 (**a**) stands for arguments
+
 (**f**) stands for function
 
 **EXAMPLE**
