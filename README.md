@@ -1,6 +1,6 @@
 # CSG README
 
-I can almost guarantee that you have created a class in your life. And if that happens to be true, I **know** that you've have dropped a sweat setting up the base of that class. 
+I can almost guarantee that you have created a class in your life. And if that happens to be true, I **know** that you've dropped a sweat setting up the base of that class. 
 ```python
 class Name:
     def __init__(self,arg1,arg2,arg3,arg4,arg5,arg6,arg7,arg8,arg9...):
