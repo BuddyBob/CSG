@@ -1,6 +1,6 @@
 {
     "name": "CSG",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "lockfileVersion": 2,
     "requires": true,
     "packages": {
@@ -10,5 +10,11 @@
                 "vscode": "^1.57.0"
             }
         },
+        "": {
+            "version": "1.0.0",
+            "engines": {
+                "vscode": "^1.57.0"
+            }
+        }
     }
 }

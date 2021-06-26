@@ -2,7 +2,6 @@
     "name": "CSG",
     "displayName": "CSG",
     "description": "class template generator",
-    "version": "1.0.0",
     "author": {"name":"BuddyBob"},
     "publisher": "BuddyBob",
     "repository": {
