@@ -17,5 +17,10 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 - Updated README.md spelling and grammar
 
 ## Major changes
+
+## [1.8.0] - 2021-26-6
+- Added new option for multiple objects *`o(COUNT)`*. 
+- Updated README.md with instructions
+
 ## [1.0.0] - 2021-25-6
 - Initial release
