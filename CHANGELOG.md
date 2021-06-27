@@ -6,6 +6,9 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 ## Minor changes
 
+## [1.8.1] - 2021-27-6
+- changed prefix (b) to (o)
+
 ## [1.7.0] - 2021-25-6
 - Removed unnecessary change log in README.md
 - changed incorrect link to github repository
