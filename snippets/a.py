@@ -97,18 +97,7 @@ for objCount in range(1,10):
             dictionary[title]["body"] = [classHead,initializer]
             #function heads
             functionHeads = ["\tdef ${"+str(argCount+i+2)+":func"+str(i+1)+"}(self):"for i in range(funcCount)]
-            #objects
-            # 1
-            # 2
-            # 3
-            # 4
-            # 1
-            # 2
-            # 3
-            # 4
-            # 5
-            # 1
-            # 2   
+            #objects 
             objs = ["${"+str(funcCount+argCount+2+i)+":obj} = ${1}("+str(vars)+")" for i in range(objCount)]
             #add attributes
             for x in attrs:
