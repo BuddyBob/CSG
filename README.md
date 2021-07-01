@@ -9,7 +9,7 @@ class Name:
 Did you know that it was possible to go a day without sweating? Me neither... until I created the ultimate **`"CLASS SNIPPETS GENERATOR!"`** or more commonly known as **`"CSG"`**!
 ## How To Use
 
-(**`csg`**) is base your prefix 
+(**`csg`**) is base text for your prefix 
 
 (**`a`**) stands for arguments
 
